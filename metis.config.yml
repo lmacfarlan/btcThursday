@@ -1,0 +1,8 @@
+project_token: c40ec402fd6a248fa315bc58
+name: btcThursday
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
